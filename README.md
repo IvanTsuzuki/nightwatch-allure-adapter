@@ -1,4 +1,4 @@
-# nightwatch-allure-adapter
+# nightwatch-extra-allure-adapter
 This is allure reporter adapter for nightwatch tests,which generates xml reports that are consumed by allure during generation.
 
 ## Using Reporter In Nightwatch
