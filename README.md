@@ -5,7 +5,7 @@ This is allure reporter adapter for nightwatch tests,which generates xml reports
 In global js file add reporter like this
 
 ```javascript
-var allure = require("nightwatch-allure-adapter");
+var allure = require("testarmada-allure-adapter");
 
 module.exports = {
     reporter: allure.write
